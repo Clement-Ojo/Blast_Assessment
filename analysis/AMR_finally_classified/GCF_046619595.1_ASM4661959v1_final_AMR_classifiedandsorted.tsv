@@ -1,0 +1,340 @@
+ID	Gene_Variants	Gene_Families	Resistance_Class
+NZ_CP176964.1	AAK-1	AAK beta-lactamase	carbapenem
+NZ_CP176964.1	AcrF	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;cephamycin;fluoroquinolone antibiotic;penam
+NZ_CP176964.1	ArnT	pmr phosphoethanolamine transferase	peptide antibiotic
+NZ_CP176964.1	CRP	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;macrolide antibiotic;penam
+NZ_CP176964.1	Enterobacter cloacae acrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	Escherichia coli acrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	Escherichia coli mdfA	major facilitator superfamily (MFS) antibiotic efflux pump	disinfecting agents and antiseptics;phenicol antibiotic;tetracycline antibiotic
+NZ_CP176964.1	FosA6	fosfomycin thiol transferase	phosphonic acid antibiotic
+NZ_CP176964.1	FosA7	fosfomycin thiol transferase	phosphonic acid antibiotic
+NZ_CP176964.1	H-NS	major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;cephamycin;fluoroquinolone antibiotic;macrolide antibiotic;penam;tetracycline antibiotic
+NZ_CP176964.1	Klebsiella pneumoniae KpnE	small multidrug resistance (SMR) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;disinfecting agents and antiseptics;macrolide antibiotic;peptide antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	Klebsiella pneumoniae KpnF	small multidrug resistance (SMR) antibiotic efflux pump	aminoglycoside antibiotic;cephalosporin;disinfecting agents and antiseptics;macrolide antibiotic;peptide antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	Klebsiella pneumoniae KpnG	major facilitator superfamily (MFS) antibiotic efflux pump	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic
+NZ_CP176964.1	Klebsiella pneumoniae KpnH	major facilitator superfamily (MFS) antibiotic efflux pump	aminoglycoside antibiotic;carbapenem;cephalosporin;fluoroquinolone antibiotic;macrolide antibiotic;penam;penem;peptide antibiotic
+NZ_CP176964.1	Klebsiella pneumoniae OmpK37	General Bacterial Porin with reduced permeability to beta-lactams	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem
+NZ_CP176964.1	Klebsiella pneumoniae OmpK37	General Bacterial Porin with reduced permeability to beta-lactams	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem
+NZ_CP176964.1	Klebsiella pneumoniae acrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	LEN-1	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-10	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-11	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-12	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-13	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-14	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-15	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-16	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-17	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-18	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-19	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-2	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-20	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-21	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-22	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-23	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-24	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-25	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-26	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-27	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-28	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-3	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-30	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-31	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-32	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-34	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-35	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-36	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-37	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-38	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-39	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-4	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-40	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-41	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-42	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-43	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-5	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-51	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-55	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-58	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-6	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-7	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-8	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LEN-9	LEN beta-lactamase	penam;penem
+NZ_CP176964.1	LptD	ATP-binding cassette (ABC) antibiotic efflux pump	aminocoumarin antibiotic;carbapenem;peptide antibiotic;rifamycin antibiotic
+NZ_CP176964.1	MdtQ	Outer Membrane Porin (Opr)	carbapenem;cephalosporin;cephamycin;monobactam;penam;penem
+NZ_CP176964.1	MexB	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic;carbapenem;cephalosporin;cephamycin;diaminopyrimidine antibiotic;fluoroquinolone antibiotic;macrolide antibiotic;monobactam;penam;penem;peptide antibiotic;phenicol antibiotic;sulfonamide antibiotic;tetracycline antibiotic
+NZ_CP176964.1	MexF	resistance-nodulation-cell division (RND) antibiotic efflux pump	diaminopyrimidine antibiotic;fluoroquinolone antibiotic;phenicol antibiotic
+NZ_CP176964.1	MuxB	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic;macrolide antibiotic;monobactam;tetracycline antibiotic
+NZ_CP176964.1	MuxC	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic;macrolide antibiotic;monobactam;tetracycline antibiotic
+NZ_CP176964.1	OHIO-1	OHIO beta-lactamase	cephalosporin
+NZ_CP176964.1	OKP-A-1	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-10	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-11	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-12	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-13	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-14	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-15	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-16	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-17	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-2	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-3	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-4	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-5	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-6	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-7	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-8	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-A-9	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-1	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-10	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-11	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-12	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-13	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-14	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-16	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-17	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-18	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-19	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-2	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-20	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-21	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-22	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-23	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-24	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-3	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-34	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-36	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-4	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-40	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-41	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-45	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-5	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-6	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-7	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-8	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-B-9	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-C-1	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OKP-D-1	OKP beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	OmpA	General Bacterial Porin with reduced permeability to peptide antibiotics	peptide antibiotic
+NZ_CP176964.1	SHV-1	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-100	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-100	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-101	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-102	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-103	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-104	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-105	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-106	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-107	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-108	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-109	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-11	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-110	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-111	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-115	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-116	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-119	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-12	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-120	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-121	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-122	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-123	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-124	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-125	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-126	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-127	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-128	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-129	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-13	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-132	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-133	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-134	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-135	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-137	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-14	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-140	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-141	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-142	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-143	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-144	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-145	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-146	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-147	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-148	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-149	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-15	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-150	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-151	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-152	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-153	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-154	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-155	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-156	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-157	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-158	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-159	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-16	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-160	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-161	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-162	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-163	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-164	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-165	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-167	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-168	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-171	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-172	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-173	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-178	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-179	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-18	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-180	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-182	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-183	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-185	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-186	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-187	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-188	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-189	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-19	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-190	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-191	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-193	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-194	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-195	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-196	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-197	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-198	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-199	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-1b-b	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-2	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-20	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-200	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-201	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-202	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-203	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-204	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-205	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-206	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-207	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-208	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-209	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-21	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-210	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-211	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-212	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-213	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-214	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-215	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-216	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-217	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-218	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-219	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-22	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-220	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-221	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-222	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-223	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-224	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-225	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-226	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-227	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-228	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-23	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-24	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-25	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-26	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-27	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-28	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-29	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-2A	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-3	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-30	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-31	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-32	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-33	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-34	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-35	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-36	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-37	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-38	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-4	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-40	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-41	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-42	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-43	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-44	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-45	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-46	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-48	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-49	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-5	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-50	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-51	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-52	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-53	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-55	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-56	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-57	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-59	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-6	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-60	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-61	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-62	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-63	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-64	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-65	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-66	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-67	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-69	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-7	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-70	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-71	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-72	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-73	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-74	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-75	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-76	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-77	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-78	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-79	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-8	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-80	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-81	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-82	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-83	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-84	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-85	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-86	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-89	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-9	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-92	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-93	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-94	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-95	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-96	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-97	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-98	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	SHV-99	SHV beta-lactamase	cephalosporin;penam
+NZ_CP176964.1	Shigella flexneri acrA	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	TolC	ATP-binding cassette (ABC) antibiotic efflux pump;major facilitator superfamily (MFS) antibiotic efflux pump;resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic;aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;macrolide antibiotic;penam;penem;peptide antibiotic;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	YojI	ATP-binding cassette (ABC) antibiotic efflux pump	peptide antibiotic
+NZ_CP176964.1	acrB	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	acrB	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	acrB	resistance-nodulation-cell division (RND) antibiotic efflux pump	cephalosporin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;glycylcycline;penam;phenicol antibiotic;rifamycin antibiotic;tetracycline antibiotic
+NZ_CP176964.1	acrD	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic
+NZ_CP176964.1	acrD	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic
+NZ_CP176964.1	arnA	pmr phosphoethanolamine transferase	peptide antibiotic
+NZ_CP176964.1	cpxA	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic;aminoglycoside antibiotic
+NZ_CP176964.1	emrB	major facilitator superfamily (MFS) antibiotic efflux pump	fluoroquinolone antibiotic
+NZ_CP176964.1	eptB	pmr phosphoethanolamine transferase	peptide antibiotic
+NZ_CP176964.1	fosA5	fosfomycin thiol transferase	aminoglycoside antibiotic;fluoroquinolone antibiotic;phosphonic acid antibiotic
+NZ_CP176964.1	mdtB	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic
+NZ_CP176964.1	mdtC	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminocoumarin antibiotic
+NZ_CP176964.1	mdtF	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;macrolide antibiotic;penam
+NZ_CP176964.1	mexY	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;penam;phenicol antibiotic;tetracycline antibiotic
+NZ_CP176964.1	mexY	resistance-nodulation-cell division (RND) antibiotic efflux pump	aminoglycoside antibiotic;carbapenem;cephalosporin;cephamycin;disinfecting agents and antiseptics;fluoroquinolone antibiotic;macrolide antibiotic;penam;phenicol antibiotic;tetracycline antibiotic
+NZ_CP176964.1	oqxA	resistance-nodulation-cell division (RND) antibiotic efflux pump	diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic
+NZ_CP176964.1	oqxB	resistance-nodulation-cell division (RND) antibiotic efflux pump	diaminopyrimidine antibiotic;fluoroquinolone antibiotic;glycylcycline;nitrofuran antibiotic;tetracycline antibiotic
+NZ_CP176964.1	smeE	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic
+NZ_CP176964.1	smeE	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic
+NZ_CP176964.1	smeE	resistance-nodulation-cell division (RND) antibiotic efflux pump	fluoroquinolone antibiotic;macrolide antibiotic;phenicol antibiotic;tetracycline antibiotic

@@ -1,0 +1,7 @@
+1d73430bb776fc39c642c609b9f919ff  ncbi_dataset/data/assembly_data_report.jsonl
+d2b3a35817c21ee2fcbb23cc65f47097  ncbi_dataset/data/GCF_011045595.1/GCF_011045595.1_ASM1104559v1_genomic.fna
+61972683b3cbd16c653c07fd655beeed  ncbi_dataset/data/GCF_024496165.1/GCF_024496165.1_ASM2449616v1_genomic.fna
+c96370f713b57d391a3638315c8bff91  ncbi_dataset/data/GCF_040047695.1/GCF_040047695.1_ASM4004769v1_genomic.fna
+128a04824a418b55c3a678755bc5d0c6  ncbi_dataset/data/GCF_046619595.1/GCF_046619595.1_ASM4661959v1_genomic.fna
+1b5c41749c227d1c245f79c370095f6a  ncbi_dataset/data/GCF_052906805.1/GCF_052906805.1_ASM5290680v1_genomic.fna
+d3c3d0298295214972b57d05a92a67d2  ncbi_dataset/data/dataset_catalog.json
