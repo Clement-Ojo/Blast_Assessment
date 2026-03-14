@@ -1,5 +1,4 @@
-#!/usr/bin/env bash
-set -e
+#!/usr/bin/bash
 
 # Setting out Variables
 
@@ -22,18 +21,18 @@ FINAL_SORTED="analysis/scripted_finally_classified_sorted_AMR_result.tsv"
 # Creating Directories
 cd "$HOME/Bioinfo_UI/Blast_assessment"
 mkdir -p data analysis script
-mkdir -p "KG" "$CD" "$CD/databases" "$BO"
+mkdir -p "$KG" "$CD" "$CD/databases" "$BO"
 
-# Downloading the % assembled genomes
+# 1) Downloading the % assembled genomes
 if [ -f data/datasets.exe ]; then
   data/datasets.exe download genome accession $ACC_NUM --filename "$K_ZIP" && unzip -o -q "$K_ZIP" -d "$KLEB_DATASET_EXTRACT"
 else
-  echo "ERROR: ../data/datasets.exe not found"
+  echo "error downloading and unzipping"
 fi
 
 # Unzipping any .gz genomes if present, then copy assembled genomes into $KAG
 find "$KLEB_DATASET_EXTRACT/ncbi_dataset/data" -name "*genomic.fna.gz" -exec gunzip -f {} \; 
-cat "$KLEB_DATASET_EXTRACT/ncbi_dataset/data"/*/*_genomic.fna > "$KAG"
+cat "$KLEB_DATASET_EXTRACT/ncbi_dataset/data"/*/*_genomic.fna >> "$KAG"
 echo "done unzipping"
 
 # 2) Downloading Card Database
